@@ -1,6 +1,6 @@
 import React from 'react'
 import { Text } from '@shibafamx/uikit'
-import { ChainId, Currency, currencyEquals, ETHER, Token } from '@pancakeswap/sdk'
+import { ChainId, Currency, currencyEquals, ETHER, Token } from '@shibafamx/sdk'
 import styled from 'styled-components'
 
 import useI18n from 'hooks/useI18n'

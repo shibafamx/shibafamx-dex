@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from 'react'
-import { Currency, Pair } from '@pancakeswap/sdk'
+import { Currency, Pair } from '@shibafamx/sdk'
 import { Button, ChevronDownIcon, Text } from '@shibafamx/uikit'
 import styled from 'styled-components'
 import { darken } from 'polished'

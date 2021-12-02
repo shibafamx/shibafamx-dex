@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Fraction, Percent } from '@pancakeswap/sdk'
+import { Currency, CurrencyAmount, Fraction, Percent } from '@shibafamx/sdk'
 import React from 'react'
 import { Button, Text } from '@shibafamx/uikit'
 // eslint-disable-next-line

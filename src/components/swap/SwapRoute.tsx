@@ -1,4 +1,4 @@
-import { Trade } from '@pancakeswap/sdk'
+import { Trade } from '@shibafamx/sdk'
 import React, { Fragment, memo, useContext } from 'react'
 import { ChevronRight } from 'react-feather'
 import { Flex, Text } from '@shibafamx/uikit'

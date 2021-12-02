@@ -1,4 +1,4 @@
-import { Token } from '@pancakeswap/sdk'
+import { Token } from '@shibafamx/sdk'
 import { transparentize } from 'polished'
 import { Button, Text } from '@shibafamx/uikit'
 import React, { useCallback, useMemo, useState } from 'react'
