@@ -27,7 +27,7 @@ const VersionBar = () => {
       <Button
         variant="subtle"
         as={Link}
-        href="https://github.com/nguyenphu27/pancake-swap-exchange-testnet"
+        href="https://github.com/shibafamx"
         endIcon={<InfoIcon color="white" />}
         scale="sm"
         ml="16px"
