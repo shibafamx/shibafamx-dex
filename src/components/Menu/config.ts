@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://pancakeswap-testnet.netlify.app/',
+    href: 'https://www.mamashibafamily.io/',
   },
   {
     label: 'Trade',
@@ -21,7 +21,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Exchange',
-        href: 'https://pancakeswap-testnet.netlify.app/#/swap',
+        href: 'https://www.mamashibafamily.io/',
       },
       {
         label: 'Liquidity',
