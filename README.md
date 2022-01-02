@@ -1,6 +1,6 @@
 # ShibaFamX Swap
 
-Live at: https://pancakeswap-testnet.netlify.app/
+Live at: https://app.mamashibafamily.io/#/swap
 
 This repo is for developer MaMa Shiba and Shiba community to develop and upscale the Shiba Ecosystem.
 
