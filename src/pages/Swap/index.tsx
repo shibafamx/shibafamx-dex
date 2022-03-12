@@ -309,7 +309,7 @@ const Swap = () => {
           />
           <PageHeader
             title={TranslateString(8, 'Exchange')}
-            description={TranslateString(1192, 'Trade tokens in an instant')}
+            description={TranslateString(1192, 'Set Slippage to 12% or more')}
           />
           <CardBody>
             <AutoColumn gap="md">
