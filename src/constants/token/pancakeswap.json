@@ -19,22 +19,6 @@
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
     },
     {
-      "name": "Binance-Peg SHIBA INU Token",
-      "symbol": "SHIB",
-      "address": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x2859e4544c4bb03966803b044a93563bd2d0dd4d.png"
-    },
-    {
-      "name": "Binance-Peg Dogecoin Token",
-      "symbol": "DOGE",
-      "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
-      "chainId": 56,
-      "decimals": 8,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xba2ae424d960c26247dd6c32edc70b295c744c43.png"
-    },
-    {
       "name": "BUSD Token",
       "symbol": "BUSD",
       "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
